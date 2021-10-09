@@ -1,6 +1,6 @@
 # workship_jis
 GIthub session on JIS Campus
-hello, this is Deblina
+- hello, this is Deblina
 - Hello it's Abhishek Kushwaha 
 - Hello it's Dipanjan
 - Shreyos Ghosh
