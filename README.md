@@ -1,5 +1,5 @@
 # workship_jis
 GIthub session on JIS Campus
 - Hello it's Abhishek Kushwaha 
-- Hello it's Dipanjan Dolui
+- Hello it's Dipanjan
 - 
