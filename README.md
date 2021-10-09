@@ -9,6 +9,9 @@ hello, this is Deblina
 - Hellow, I am Arindam sarkar
 - Hello Zeeshan Ahmed Siddiqui here
 - Hi, it's Saptarshi Bandopadhyay
+
+- Hey Hrittik, it's Wriddhi
+
 - hi! , I'm sathi Ghosh
 - hi, i'm shilpa
 
