@@ -20,4 +20,5 @@ GIthub session on JIS Campus
 - hi I am raj
 - Hi, I am Farhaan
 - hi, I am Faizan
+- Hi, I am Anal Rauth
 # workship_jis
