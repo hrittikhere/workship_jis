@@ -12,6 +12,8 @@ GIthub session on JIS Campus
 - Hi, I'm sathi Ghosh
 - Hi! Suhana Sapui here
 - Hey Hrittik, it's Wriddhi
+- hi! , I'm sathi Ghosh
+- hi ! It's sayantan Dey
 - Hello, its Akash Here 
 - hi, i'm shilpa
 - Hi, I'm sindhunit
