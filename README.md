@@ -2,6 +2,8 @@
 GIthub session on JIS Campus
 hello, this is Deblina
 - Hello it's Abhishek Kushwaha 
+- Shreyos Ghosh
+
 
   hi it's Jishu chakraborty
 
@@ -20,5 +22,6 @@ hello, this is Deblina
 
 - Hi, I'm sindhunit
 - hi I am raj
+
 
 
