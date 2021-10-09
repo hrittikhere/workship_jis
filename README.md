@@ -1,4 +1,3 @@
-# workship_jis
 GIthub session on JIS Campus
 - hello, this is Deblina
 - Hello it's Abhishek Kushwaha 
@@ -18,3 +17,5 @@ GIthub session on JIS Campus
 - hi, i'm shilpa
 - Hi, I'm sindhunit
 - hi I am raj
+
+# workship_jis
