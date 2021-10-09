@@ -12,6 +12,10 @@ hello, this is Deblina
 - Hello Zeeshan Ahmed Siddiqui here
 - Hi, it's Saptarshi Bandopadhyay
 
+hi! , I'm sathi Ghosh
+hi! Suhana Sapui here
+
+
 - Hey Hrittik, it's Wriddhi
 
 - hi! , I'm sathi Ghosh
