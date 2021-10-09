@@ -2,6 +2,9 @@
 GIthub session on JIS Campus
 hello, this is Deblina
 - Hello it's Abhishek Kushwaha 
+
+  hi it's Jishu chakraborty
+
 - Hello it's Subham Das
 - Hellow, I am Arindam sarkar
 - Hello Zeeshan Ahmed Siddiqui here
