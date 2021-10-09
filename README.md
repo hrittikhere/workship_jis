@@ -18,4 +18,5 @@ GIthub session on JIS Campus
 - hi, i'm shilpa
 - Hi, I'm sindhunit
 - hi I am raj
+- Hi, I am Farhaan
 # workship_jis
