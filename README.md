@@ -12,10 +12,10 @@ GIthub session on JIS Campus
 - Hi! Suhana Sapui here
 - Hey Hrittik, it's Wriddhi
 - hi! , I'm sathi Ghosh
+- hi, I'm Ramkrishna Das
 - hi ! It's sayantan Dey
 - Hello, its Akash Here 
 - hi, i'm shilpa
 - Hi, I'm sindhunit
 - hi I am raj
-
 # workship_jis
